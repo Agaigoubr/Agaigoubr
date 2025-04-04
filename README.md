@@ -14,8 +14,7 @@ I'm passionate about **web and mobile development**, specializing in **Laravel, 
 - **Mobile apps with Flutter**  
 
 ## 📫 How to Reach Me  
-- Email: [your-email@example.com](mailto:your-email@example.com)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+- Email: [agaigoubrhim@gmail.com](agaigoubrhim@gmail.com)  
 - GitHub: [Agaigoubr](https://github.com/Agaigoubr)  
 
 ## ⚡ Fun Fact  
